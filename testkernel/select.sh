@@ -19,4 +19,3 @@ fi
 
 echo \"$1\" > ./cur_test/CURTEST
 
-bash build.sh
